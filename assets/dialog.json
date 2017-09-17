@@ -36,7 +36,7 @@
             "content": "你是谁？",
             "nextXianzhe": ["0004"]
         }, {
-            "content": "羡辙是什么意思？",
+            "content": "洋哥是什么意思？",
             "nextXianzhe": ["0005"]
         }, {
             "content": "问什么都可以吗？",
@@ -45,13 +45,13 @@
     }, {
         "id": "0004",
         "details": [
-            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我羡辙吧！"]
+            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我洋哥吧！"]
         ],
         "nextXianzhe": ["0005"]
     }, {
         "id": "0005",
         "details": [
-            ["羡辙是我在阿里实习时候起的花名，具体参见这篇文章", "<a href='http://zhangwenli.com/blog/2015/04/29/new-name/'>http://zhangwenli.com/blog/2015/04/29/new-name</a>"]
+            ["洋哥是大学时候同学们起的花名，具体的可以问我的同学们,对了,我妹妹也知道"]
         ],
         "responses": [{
             "content": "你的职业是？",
@@ -75,7 +75,7 @@
         "details": [
             [
                 "我经常觉得自己挺无聊的……",
-                "无聊的时候，会读书、弹尤克里里、画画（全靠脑洞）、拉小提琴（很久没碰）、拍拍照片（但宅在家里怎么破）等等",
+                "无聊的时候，会读书、看鬼吹灯、写代码、听听歌（但宅在家里怎么破）,有时还会玩几把游戏等等",
                 "有点三分钟热度，所以接触的兴趣爱好倒不少，就是都没啥特别厉害的~"
             ]
         ],
@@ -83,7 +83,7 @@
     }, {
         "id": "0008",
         "details": [
-            ["喜欢啊！", "最喜欢的书是《红楼梦》，是全世界最棒的书！"]
+            ["喜欢啊！", "最喜欢的书是《数学之美》，是全世界最棒的书！"]
         ],
         "responses": [{
             "content": "哇！我也这么觉得呢~",
@@ -98,7 +98,7 @@
             ["哈哈哈，你猜？"]
         ],
         "responses": [{
-            "content": "羡辙这么可爱，一定是男孩纸吧！所以…应该有女朋友！",
+            "content": "洋哥一定是个帅哥吧！所以…应该有女朋友！",
             "nextXianzhe": ["0015"]
         }, {
             "content": "就算你有，也千万别告诉我！",
@@ -113,7 +113,7 @@
             ["想要我给你推荐一点好书吗？"]
         ],
         "responses": [{
-            "content": "好啊！羡辙推荐的书一定很棒~",
+            "content": "好啊！洋哥推荐的书一定很棒~",
             "nextXianzhe": ["0011"]
         }, {
             "content": "算了，我不是很感兴趣……",
@@ -184,7 +184,7 @@
             ["嘘……", "<img src='img/yumao.jpg'>"]
         ],
         "responses": [{
-            "content": "唉，很好奇怎样的人能俘获羡辙的芳心啊~~",
+            "content": "唉，很好奇怎样的人能俘获洋哥的芳心啊~~",
             "nextXianzhe": ["0020"]
         }, {
             "content": "哦，那我们也没什么好说的了。再见。:)"
@@ -231,10 +231,10 @@
     }, {
         "id": "0023",
         "details": [
-            ["唔，我是一个程序媛", "准确地说，是在百度工作的前端工程师"]
+            ["唔，我是一个程序员", "准确地说，是在中兴通讯工作的系统研发工程师"]
         ],
         "responses": [{
-            "content": "嗯哼~ 百度？",
+            "content": "嗯哼~中兴？",
             "nextXianzhe": ["0024"]
         }, {
             "content": "你想跳槽吗？",
@@ -243,7 +243,7 @@
     }, {
         "id": "0024",
         "details": [
-            ["是的", "我在百度 ECharts 团队做可视化相关的工作"]
+            ["是的", "我在中兴CDN管理系统团队做WEB相关的工作"]
         ],
         "responses": [{
             "content": "听起来很有意思~ 可以具体跟我说说你做了什么吗？",
@@ -258,13 +258,7 @@
         "id": "0025",
         "details": [
             [
-                "<a href='http://echarts.baidu.com/theme-builder/'>ECharts 主题编辑器</a>",
-                "<img src='img/echarts-theme-editor.png'>",
-                "<a href='https://github.com/ecomfe/echarts-liquidfill'>水球图</a>",
-                "<img src='img/echarts-liquidfill.jpg'>",
-                "极坐标系下的柱状图",
-                "<img src='img/echarts-polar-bar.png'>",
-                "等等"
+                "此处省略一万字...哈哈哈"
             ]
         ]
     }, {
@@ -322,7 +316,7 @@
             "content": "还没看呢",
             "nextXianzhe": ["0031"]
         }, {
-            "content": "羡辙当然最美啦！",
+            "content": "洋哥当然最帅啦！",
             "nextXianzhe": ["0032"]
         }]
     }, {
@@ -344,8 +338,8 @@
         "details": [
             [
                 "虽然目前没有换工作的打算，不过对于有趣的工作机会保持开放态度",
-                "我的简历可以在 <a href='http://www.linkedin.com/in/wenlizhang/'>LinkedIn</a> 查看",
-                "如果能在意我的想法，发挥我的脑洞和技术特长，欢迎邮件至 <a href='mailto:me@zhangwenli.com'>me@zhangwenli.com</a> 勾搭~",
+                "我的简历可以在 <a href='#'>LinkedIn</a> 查看",
+                "如果能在意我的想法，发挥我的脑洞和技术特长，欢迎邮件至 <a href='#'>me@zhangwenli.com</a> 勾搭~",
                 "其实不是程序员的职位，也挺不错的嘛~"
             ]
         ],
@@ -372,7 +366,7 @@
     }, {
         "id": "0035",
         "details": [
-            ["对了，本站的动画效果都是男朋友帮我写的", "<a href='https://github.com/devyumao'>GitHub</a> 和<a href='http://weibo.com/u/2769530531'>微博</a> ID 都是 devyumao"]
+            ["对了，本站的动画效果都是抄别人的,哈哈", "..."]
         ],
         "responses": [{
             "content": "这恩爱秀得……行行行，狗粮费拿去就是！",
@@ -391,9 +385,9 @@
         "details": [
             [
                 "嘿嘿嘿，这是我想读的书",
-                "<a href='https://book.douban.com/people/ovilia1024/wish'>https://book.douban.com/people/ovilia1024/wish</a>",
+                "...",
                 "如果愿意的话，可以给我支付宝转账打赏，多少随意哈！",
-                "<img src='img/zhifu.png'>"
+                "..."
             ]
         ],
         "responses": [{
