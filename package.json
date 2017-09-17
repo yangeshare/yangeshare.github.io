@@ -1,9 +1,9 @@
 {
-  "name": "OviliaBlog",
+  "name": "GgCheng's Blog",
   "version": "0.1.0",
-  "description": "Ovilia's Blog",
+  "description": "GgCheng's Blog",
   "main": "gulpfile.js",
-  "author": "Ovilia",
+  "author": "GgCheng",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ovilia/blog"
+    "url": "https://github.com/yangeshare"
   },
   "keywords": [
     "gulp",
